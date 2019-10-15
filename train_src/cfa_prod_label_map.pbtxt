@@ -1,0 +1,55 @@
+item {
+  id: 1
+  name: 'hand'
+}
+
+item {
+  id: 2
+  name: 'smallHotDrink'
+}
+
+item {
+  id: 3
+  name: 'mediumColdDrink'
+}
+
+item {
+  id: 4
+  name: 'sandBox'
+}
+
+item {
+  id: 5
+  name: 'nuggBox'
+}
+
+item {
+  id: 6
+  name: 'sandBag'
+}
+
+item {
+  id: 7
+  name: 'cfaSauce'
+}
+
+item {
+  id: 8
+  name: 'smallFry'
+}
+
+item {
+  id: 9
+  name: 'largeFry'
+}
+
+item {
+  id: 10
+  name: 'polySauce'
+}
+
+item {
+  id: 11
+  name: 'spicyBag'
+}
+
